@@ -103,10 +103,13 @@
   <img align="left" alt="Mahin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mahin678&show_icons=true&hide_border=true" />
 
 </details>
+
 [website]: https://mahins.netlify.app/
 [github]: https://github.com/Mahin678?tab=repositories
-[facebook]:https://www.facebook.com/mahin.tazuar
+[facebook]: https://www.facebook.com/mahin.tazuar
+
 <!-- [gmail]: mahintazuar678@gmail.com -->
+
 [medium]: http://vsCodeHero.com
 [instagram]: https://www.instagram.com/ajaira_432/?hl=en
 [linkedin]: https://www.linkedin.com/in/mahin-tazuar-turza-3323191ba/
