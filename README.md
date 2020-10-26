@@ -1,4 +1,4 @@
-### Hi there, I'm Mahin Tazuar [website] 👋
+### Hi there, I'm Mahin Tazuar 👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
@@ -85,7 +85,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1] in [creative-agency]()
+1. 💪 Opened PR [#1] in [creative-agency](https://creative-agency-app-e11f4.web.app/home)
 2. 💪 Opened PR [#2] in [volunteer-network](https://github.com/Mahin678/volunteer-network-main)
 3. 💪 Opened PR [#3] in [Ema-John](https://github.com/Mahin678/amazon-simple-e-site)
 4. 💪 Opened PR [#4] in [Travel-guru](https://github.com/Mahin678/travel-guru-app)
