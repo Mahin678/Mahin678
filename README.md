@@ -16,7 +16,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -62,7 +64,7 @@
 
 <!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
 
----
+<!-- --- -->
 
 <!-- ### 📕 Latest Blog Posts -->
 
@@ -99,9 +101,10 @@
   <img align="left" alt="Mahin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Mahin678&show_icons=true&hide_border=true" />
 
 </details>
-
+[facebook]:https://www.facebook.com/mahin.tazuar
+[gmail]: mahintazuar678@gmail.com
 [github]: https://github.com/Mahin678?tab=repositories
-[website]: https://codeSTACKr.com
+[website]: https://mahins.netlify.app/
 [medium]: http://vsCodeHero.com
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/ajaira_432/?hl=en
+[linkedin]: www.linkedin.com/in/mahin-tazuar-turza-3323191ba
