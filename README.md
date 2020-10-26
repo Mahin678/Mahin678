@@ -51,6 +51,12 @@
 <br />
 <br />
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahin678&layout=compact)](https://github.com/Mahin678/github-readme-stats)
+
+---
+
 <!-- --- -->
 
 <!-- ### 📺 Latest YouTube Videos -->
