@@ -19,10 +19,21 @@
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <!-- [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail] -->
-
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="center">
+  <a target="_blank" href="www.linkedin.com/in/mahin6">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=gray">
+ </a>
+  <a target="_blank" href="https://github.com/Mahin678">
+    <img src="https://img.shields.io/badge/Github-red?style=flat&logo=github&labelColor=gray">
+  </a>
+  <a target="_blank" href="https://www.instagram.com/ajaira_432/?hl=en">
+    <img src="https://img.shields.io/badge/instrogram-danger?style=flat&logo=instrogram&labelColor=gray">
+  </a>
+ 
+ <a href="https://drive.google.com/file/d/19HlE8FZitBbO5RbV_Y94aKRFiqg8EHNf/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-blue?style=flat&logo=R&labelColor=gray"">
+  </a>
+</p>
 
 <br />
 
