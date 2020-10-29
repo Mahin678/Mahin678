@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Resume-blue?style=flat&logo=R&labelColor=gray"">
   </a>
    <a target="_blank" href="https://mahins.netlify.app/" style="text-decoration:none; >
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=gray">
+    <img src="https://img.shields.io/badge/portfolio-blue?style=flat&logo=portfolio&labelColor=gray">
  </a>
 </p>
 
