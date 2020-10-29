@@ -20,20 +20,20 @@
 
 <!-- [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail] -->
 <p align="center">
-  <a target="_blank" href="www.linkedin.com/in/mahin6" style="text-decoration:none; >
+  <a target="_blank" href="www.linkedin.com/in/mahin6" style="text-decoration: line-through;" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=gray">
  </a>
-  <a target="_blank" href="https://github.com/Mahin678" style="text-decoration:none;>
+  <a target="_blank" href="https://github.com/Mahin678" style="text-decoration: line-through;">
     <img src="https://img.shields.io/badge/Github-red?style=flat&logo=github&labelColor=gray">
   </a>
-  <a target="_blank" href="https://www.instagram.com/ajaira_432/?hl=en" style="text-decoration:none;>
+  <a target="_blank" href="https://www.instagram.com/ajaira_432/?hl=en" style="text-decoration: line-through;">
     <img src="https://img.shields.io/badge/instrogram-danger?style=flat&logo=instrogram&labelColor=gray">
   </a>
  
- <a href="https://drive.google.com/file/d/19HlE8FZitBbO5RbV_Y94aKRFiqg8EHNf/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-blue?style=flat&logo=R&labelColor=gray"">
+ <a href="https://drive.google.com/file/d/19HlE8FZitBbO5RbV_Y94aKRFiqg8EHNf/view?usp=sharing" style="text-decoration: line-through;">
+    <img src="https://img.shields.io/badge/Resume-blue?style=flat&logo=R&labelColor=gray">
   </a>
-   <a target="_blank" href="https://mahins.netlify.app/" style="text-decoration:none; >
+   <a target="_blank" href="https://mahins.netlify.app/" style="text-decoration: line-through;"  >
     <img src="https://img.shields.io/badge/portfolio-blue?style=flat&logo=portfolio&labelColor=gray">
  </a>
 </p>
