@@ -20,7 +20,7 @@
 
 <!-- [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail] -->
 <p align="center">
-  <a target="_blank" href="www.linkedin.com/in/mahin6" style="text-decoration: line-through;" >
+  <a target="_blank" href="https://linkedin.com/in/mahin6" style="text-decoration: line-through;" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=gray">
  </a>
   <a target="_blank" href="https://github.com/Mahin678" style="text-decoration: line-through;">
