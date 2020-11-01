@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/instrogram-danger?style=flat&logo=instrogram&labelColor=gray">
   </a>
  
- <a href="https://drive.google.com/file/d/19HlE8FZitBbO5RbV_Y94aKRFiqg8EHNf/view?usp=sharing" style="text-decoration: line-through;">
+ <a href="https://drive.google.com/file/d/1TrgEekGwDt4a-DxattL8BA-CotfYU11d/view?usp=sharing" style="text-decoration: line-through;">
     <img src="https://img.shields.io/badge/Resume-blue?style=flat&logo=R&labelColor=gray">
   </a>
    <a target="_blank" href="https://mahins.netlify.app/" style="text-decoration: line-through;"  >
