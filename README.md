@@ -73,7 +73,7 @@
 
 ---
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MahinWk)](https://github.com/Mahin678/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/84b03b07-0cc2-46cf-8b90-881bd4382b98/wakatime?username=MahinWk)](https://github.com/Mahin678/github-readme-stats)
 
 ---
 
