@@ -5,8 +5,8 @@
 
 ## I'm a Web Developer , Instructor and Curious Developer!!
 
--  🌱 I’m currently learning everything 🤣
--  👯 I’m looking to collaborate with other content creators
+-  🌱 I’m currently learning Node js 🤣
+-  👯 I’m looking to a team for work with them
 -  🥅 2021 Goals: Want to become a world class Web Developer
 -  ⚡ Fun fact: I love to draw and play guitar / Cycle / Coding / Travelling / learn new New things
 
