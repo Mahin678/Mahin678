@@ -71,7 +71,8 @@
 <p align="center">
   <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/mahintazuar/count.svg" />
 </p>
-
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahin678&layout=compact)](https://github.com/Mahin678/github-readme-stats)
 
