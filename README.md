@@ -80,7 +80,7 @@
 
 ---
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@MahinWk/7eb22887-82ce-47bf-8f03-3d4ef55a2e40.png" width="500" height="500" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@MahinWk/7eb22887-82ce-47bf-8f03-3d4ef55a2e40.png" width="300" height="200" /></a>
 
 ---
 
