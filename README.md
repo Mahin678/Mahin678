@@ -81,7 +81,7 @@
 ---
 
 <div>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@MahinWk/7eb22887-82ce-47bf-8f03-3d4ef55a2e40.png" width="700" height="400" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@MahinWk/7eb22887-82ce-47bf-8f03-3d4ef55a2e40.png" width="600" height="400" /></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@MahinWk/54bfe243-9655-44bf-8bc5-105035a96ef3.png" width="500" height="500" /></a>
 
 </div>
