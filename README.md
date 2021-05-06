@@ -69,7 +69,7 @@
 <br />
 <h2 align="center">Visitor Count</h2>
 <p align="center">
-  <img align="center" alt="devarif.me" width="40%" src="https://profile-counter.glitch.me/mahintazuar/count.svg" />
+  <img align="center" alt="mahin.me" width="40%" src="https://profile-counter.glitch.me/mahintazuar/count.svg" />
 </p>
 <br />
 <br />
@@ -80,7 +80,7 @@
 
 ---
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/84b03b07-0cc2-46cf-8b90-881bd4382b98/wakatime?username=MahinWk)](https://github.com/Mahin678/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@MahinWk/7efa80a8-5a73-454e-81ed-f286665bea83.svg"></embed></figure>
 
 ---
 
