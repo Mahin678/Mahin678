@@ -7,7 +7,7 @@
 
 -  🌱 I’m currently learning Node js 🤣
 -  👯 I’m looking to a team for work with them
--  🥅 2021 Goals: Want to become a world class Web Developer
+-  🥅 2023 Goals: Want to become a world class Web Developer
 -  ⚡ Fun fact: I love to draw and play guitar / Cycle / Coding / Travelling / learn new New things
 
 <!-- ### Spotify Playing 🎧
