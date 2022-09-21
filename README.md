@@ -5,7 +5,7 @@
 - 🥅 2023 Goals: Mastering In Web Programming
 - ⚡ Fun fact: I love coding, explore new things and watch movies
 - 📫 Reach me at **mahintazuar678@gmail.com**
-- 
+
 ### Connect with me:
 
 <!-- [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail] -->
